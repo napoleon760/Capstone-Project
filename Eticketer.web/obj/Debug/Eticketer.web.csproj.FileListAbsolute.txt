@@ -31,8 +31,6 @@ c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\obj\Debug\Eticketer.web.csprojResolveAssemblyReference.cache
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\obj\Debug\Eticketer.web.dll
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\obj\Debug\Eticketer.web.pdb
-c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Eticketer.web.dll.CodeAnalysisLog.xml
-c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Eticketer.web.dll.lastcodeanalysissucceeded
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\EntityFramework.dll
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\EntityFramework.SqlServer.dll
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\EntityFramework.xml
