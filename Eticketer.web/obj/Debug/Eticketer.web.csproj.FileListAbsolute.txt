@@ -35,3 +35,12 @@ c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\EntityFramework.SqlServer.dll
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\EntityFramework.xml
 c:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\EntityFramework.SqlServer.xml
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.dll
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.Security.dll
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Owin.dll
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.xml
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.Security.xml
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.web\bin\Microsoft.Owin.Host.SystemWeb.xml
