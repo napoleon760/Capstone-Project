@@ -3,6 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.Owin;
 using Owin;
 using Microsoft.Owin.Security.Cookies;
+using Microsoft.AspNet.Identity;
 
 [assembly: OwinStartup(typeof(Eticketer.web.Startup))]
 
@@ -19,7 +20,8 @@ namespace Eticketer.web
             { 
             app.UseCookieAuthentication(new CookieAuthenticationOptions
             {
-                LoginPath = new PathString("/account/login")
+                AuthenticationType = DefaultAuthenticationTypes.ApplicationCookie,
+                LoginPath = new PathString("/account/login"),
             });
         }
     }

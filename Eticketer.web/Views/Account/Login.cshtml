@@ -1,34 +1,34 @@
-﻿
+﻿@model LoginModel
 @{
     ViewBag.Title = "Login";
 }
 
 <h2>Login</h2>
 
-<form class="form-horizontal">
+<form class="form-horizontal" action="" method="post">
     <fieldset>
-        <legend>Legend</legend>
+        
         <div class="form-group">
             <label for="inputEmail" class="col-lg-2 control-label">Email</label>
             <div class="col-lg-10">
-                <input type="text" class="form-control" id="inputEmail" placeholder="Email">
+                @Html.TextBoxFor(m => m.Email, new{ @classs ="form-control", placeholder="Email"})
             </div>
         </div>
         <div class="form-group">
             <label for="inputPassword" class="col-lg-2 control-label">Password</label>
             <div class="col-lg-10">
-                <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+                
+                @Html.PasswordFor(m => m.Password, new { @classs = "form-control", placeholder = "Password" })
                 <div class="checkbox">
                     <label>
-                        <input type="checkbox"> Remember Me
-                    </label>
+                        @Html.CheckBoxFor(m => m.RememberMe) Remember Me
+                        </label>
                 </div>
             </div>
         </div>
               <div class="form-group">
             <div class="col-lg-10 col-lg-offset-2">
-                <button type="reset" class="btn btn-default">Cancel</button>
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" class="btn btn-primary">Sign in</button>
             </div>
         </div>
     </fieldset>

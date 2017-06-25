@@ -40,3 +40,5 @@ C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.Data\bin
 C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.Data\bin\Debug\Microsoft.Owin.xml
 C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PAUL\Documents\Visual Studio 2015\Projects\Eticketer\Eticketer.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
