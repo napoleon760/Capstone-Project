@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticketer.web", "Eticketer.web\Eticketer.web.csproj", "{669FA518-56C8-4C6A-9B36-1995F3576154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticketer.Data", "Eticketer.Data\Eticketer.Data.csproj", "{50C4B95E-2B9F-4A2C-B183-306F8948324A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticketer.Core", "Eticketer.Core\Eticketer.Core.csproj", "{8909D79D-1530-4B27-9898-4775722DF226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669FA518-56C8-4C6A-9B36-1995F3576154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669FA518-56C8-4C6A-9B36-1995F3576154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669FA518-56C8-4C6A-9B36-1995F3576154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669FA518-56C8-4C6A-9B36-1995F3576154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50C4B95E-2B9F-4A2C-B183-306F8948324A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50C4B95E-2B9F-4A2C-B183-306F8948324A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50C4B95E-2B9F-4A2C-B183-306F8948324A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50C4B95E-2B9F-4A2C-B183-306F8948324A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8909D79D-1530-4B27-9898-4775722DF226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8909D79D-1530-4B27-9898-4775722DF226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8909D79D-1530-4B27-9898-4775722DF226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8909D79D-1530-4B27-9898-4775722DF226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
