@@ -11,6 +11,7 @@ namespace Eticketer.Data.Entities
         public int BusID { get; set; }
 
         //navigation property that maps bus to trip
-        public virtual Trip Trip { get; set; }
+        
+        public virtual ICollection<Trip> Trips { get; set; } = new HashSet<Trip>();
     }
 }

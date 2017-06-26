@@ -38,7 +38,7 @@ namespace Eticketer.web.Controllers
                 }
                 else
                 {
-                    return RedirectToAction("index", "home");
+                    return RedirectToAction("dashboard", "account");
 
                 }
 
@@ -68,6 +68,12 @@ namespace Eticketer.web.Controllers
         {
             Authentication.SignOut();
             return RedirectToAction("login");
+        }
+
+
+        public ActionResult Dashboard()
+        {
+            return View();
         }
     }
 }
