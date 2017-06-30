@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Eticketer.Data.Repositories;
-using Eticketer.Core.Managers;
-using Eticketer.Core;
 using Eticketer.Data.Entities;
 
-namespace Eticketer.Data.Managers
+namespace Eticketer.Core.Managers
 {
     public class TripManager
     {

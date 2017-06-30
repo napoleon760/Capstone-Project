@@ -13,7 +13,7 @@ namespace Eticketer.web.Controllers
     public class AccountController : Controller
     {
 
-        public IAuthenticationManager Authentication => this.HttpContext.GetOwinContext().Authentication;//
+        public IAuthenticationManager Authentication => this.HttpContext.GetOwinContext().Authentication;
         // GET: Account
         public ActionResult Login()
         {
